@@ -22,6 +22,8 @@ A modern, responsive static e-commerce homepage built with semantic HTML, custom
 > Homepage preview
 
 ![Homepage Preview](assets/screenshot.png)
+![Homepage Preview](assets/screenshot2.png)
+
 
 ---
 
@@ -38,20 +40,6 @@ A modern, responsive static e-commerce homepage built with semantic HTML, custom
 - 🧱 Bootstrap 5 (responsive layout & components)
 - ⚙️ JavaScript (for interactive features)
 
----
-
-## 📁 Folder Structure
-kapdewalla-homepage-enhanced/
-│
-├── index.html
-├── style.css
-├── assets/
-│ ├── C1.png, 1.1.jpg, a1.png, ...
-│ └── screenshot.png
-└── README.md
-
-
----
 
 ## 🙌 Acknowledgements
 
