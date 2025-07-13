@@ -52,7 +52,7 @@ Special thanks to [Bootstrap](https://getbootstrap.com) and [Font Awesome](https
 
 If you'd like to connect:
 
-- 🔗 [LinkedIn – Pranay Gedam](https://www.linkedin.com/in/pranaygedam)
+- 🔗 [LinkedIn – Pranay Gedam](https://www.linkedin.com/in/pranay-gedam-b86a0a339/)
 - 🐙 [GitHub – @Pranay3034](https://github.com/Pranay3034)
 
 ---
